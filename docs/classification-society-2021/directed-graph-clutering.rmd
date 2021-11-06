@@ -228,5 +228,6 @@ knitr::include_graphics("strong_compoent_size.png")
 ### For checking data try  [https://github.com/kaneplusplus/checkin](https://github.com/kaneplusplus/checkin)
 
 --
+<br>
 
 ## Thanks!
