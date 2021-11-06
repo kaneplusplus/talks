@@ -180,7 +180,7 @@ $$P =
 The steady-state probability is the solution to $\pi$ in the equation
 
 $$ \pi =  P \pi$$
-subject to the constraint $\sum_{i = 1}^{|V|} \pi_i = 1$ and $\pi_i >= 0 \ \forall i \ \in [1, |V|]$. Or, more simply
+subject to the constraint $\sum_{i = 1}^{|V|} \pi_i = 1$ and $\pi_i >= 0 \ \forall i \ \in [1, |V|]$. 
 
 $$\left[
 \begin{array}{c}
